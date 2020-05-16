@@ -1,7 +1,7 @@
 #logosize {
     max-width: 300px ;
     max-height: 400px ;
-    top: 973px;
+    top: 95%px;
     position: absolute;
 }
 
@@ -26,7 +26,7 @@
 	
 	position:absolute;
 	margin-left:40%;
-	top: 950px;
+	top: 126%;
 }
 
 {box-sizing: border-box}
