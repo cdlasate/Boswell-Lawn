@@ -1,0 +1,85 @@
+#logosize {
+    max-width: 300px ;
+    max-height: 400px ;
+    top: 973px;
+    position: absolute;
+}
+
+.body {
+	text-align: center ;
+	font-size: 16 px ;
+	font-family: Times ;
+}
+
+.footer{
+	font-size: 10 px ;
+	font-family: Times ;
+}
+
+.main{
+	text-align:center;
+	margin-left:150px;
+	margin-right:150px;
+}
+
+.towns{
+	
+	position:absolute;
+	margin-left:40%;
+	top: 950px;
+}
+
+{box-sizing: border-box}
+
+.tab {
+	align: left;
+	position: absolute;
+	border: 1px solid #ccc;
+	background-color: #A9A9A9;
+	margin: 0 auto;
+	width: 10%;
+	height: 300px;
+	z-index: 1;
+	top: 425px;
+	left: 0;
+	padding-left:0;
+	padding-top: 5px;
+}
+
+.tab button{
+	display: block;
+	width: 100%;
+	background-color: #A9A9A9;
+	margin: 10px 0;
+	color: black;
+	padding: 22px 16px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.tab button:hover {
+	background-color: #EEFBFB;
+}
+
+.tab button.active {
+	bacround-color: #ccc
+}
+
+.tabcontent{
+	float: left;
+	padding: 0px 12px;
+	border: 1px solid #ccc;
+	width= 100%;
+	border-left:none;
+	height=300px;
+}
+
+.test {
+  	width:100%;
+  	height: 400px;
+  	align: center;
+  	margin-left:0;
+  	padding-left:0;
+}
