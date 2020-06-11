@@ -22,6 +22,12 @@
 	margin-right:150px;
 }
 
+.verse{
+	text-align:center;
+	margin-left:200px;
+	margin-right:200px;
+}
+
 .price{
 	text-align:center;
 }
@@ -65,7 +71,7 @@
 }
 
 .tab button.active {
-	bacround-color: #ccc
+	background-color: #ccc
 }
 
 .tabcontent{
@@ -83,4 +89,21 @@
   	align: center;
   	margin-left:0;
   	padding-left:0;
+}
+
+.head{
+	text-align:center;
+	font-family:Times;
+}
+
+.row1col1{
+	width:37.5%;
+	height:37.5%;
+	margin-left:10%;
+}
+
+.row1col2{
+	width:37.5%;
+	height:37.5%;
+	margin-left:5%;
 }
