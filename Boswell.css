@@ -56,6 +56,7 @@
 .tab button{
 	display: block;
 	width: 100%;
+	height: 25%;
 	background-color: #A9A9A9;
 	margin: 10px 0;
 	color: black;
