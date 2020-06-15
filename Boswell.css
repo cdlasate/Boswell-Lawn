@@ -45,7 +45,6 @@
 	background-color: #A9A9A9;
 	margin: 0 auto;
 	width: 10%;
-	height: 300 px;
 	z-index: 1;
 	top: 425px;
 	left: 0;
@@ -54,7 +53,7 @@
 }
 
 .tab button{
-	display: inline-block;
+	display: block;
 	width: 100%;
 	background-color: #A9A9A9;
 	margin: 10px 0;
